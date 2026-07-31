@@ -11,8 +11,7 @@ sites:
     url: https://news.ycombinator.com
 
 status-website:
-  # Comenta o borra la línea cname ya que no tienes un dominio personalizado propio
-  # cname: demo.upptime.js.org
+  
   baseUrl: /Taller2GHA2 # <- Importante: debe coincidir exactamente con el nombre de tu repositorio
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
