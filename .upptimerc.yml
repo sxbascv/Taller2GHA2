@@ -1,6 +1,6 @@
-# Change these first
-owner: sxbascv # Tu usuario real de GitHub
-repo: Taller2GHA2 # El nombre exacto de tu repositorio
+
+owner: sxbascv
+repo: Taller2GHA2 
 
 sites:
   - name: Google
